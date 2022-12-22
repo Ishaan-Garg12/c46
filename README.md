@@ -1,2 +1,1 @@
-# c46
-First class for zombie shoter
+# Zombie-Shooter-stage-2
